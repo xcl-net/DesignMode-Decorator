@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "装饰者模式", "装饰者模式\装饰者模式.csproj", "{78F6D245-8A0A-4C8D-A0D6-CFE68EF60697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "穿衣打扮", "穿衣打扮\穿衣打扮.csproj", "{BBD39AE5-27EB-46C9-99CB-1F2DBBD75CD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "穿衣打扮-装饰者", "穿衣打扮-装饰者\穿衣打扮-装饰者.csproj", "{954212FB-94AC-4C39-975D-B7B70FAE11FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F6D245-8A0A-4C8D-A0D6-CFE68EF60697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F6D245-8A0A-4C8D-A0D6-CFE68EF60697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F6D245-8A0A-4C8D-A0D6-CFE68EF60697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F6D245-8A0A-4C8D-A0D6-CFE68EF60697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD39AE5-27EB-46C9-99CB-1F2DBBD75CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD39AE5-27EB-46C9-99CB-1F2DBBD75CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD39AE5-27EB-46C9-99CB-1F2DBBD75CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD39AE5-27EB-46C9-99CB-1F2DBBD75CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954212FB-94AC-4C39-975D-B7B70FAE11FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954212FB-94AC-4C39-975D-B7B70FAE11FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954212FB-94AC-4C39-975D-B7B70FAE11FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954212FB-94AC-4C39-975D-B7B70FAE11FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
